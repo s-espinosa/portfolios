@@ -12,13 +12,13 @@ Notes
 - Sort functionality not case insensitive
 - Missing selenium in JS testing
 
-Satisfactory Progress: 3/4 - All functionality complete
-Ruby Syntax & Style: 3
-Rails Style & API: 4
-Javascript Syntax & Style: 3
-Testing: 2 - Add some selenium/js tests
-User Interface: 3 - Lack of helpful error message
-Workflow: 4
+* Satisfactory Progress: 3/4 - All functionality complete
+* Ruby Syntax & Style: 3
+* Rails Style & API: 4
+* Javascript Syntax & Style: 3
+* Testing: 2 - Add some selenium/js tests
+* User Interface: 3 - Lack of helpful error message
+* Workflow: 4
 
 Looks like all you need to do is add some additional testing - coverage for controllers or coverage in some way of js
 Original notes from Brenna - Testing upgraded to a 3
